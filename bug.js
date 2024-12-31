@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an unusual issue where data wasn't consistently updating in the Realtime Database.  Sometimes writes would succeed, while others would fail silently, leaving the data unchanged. There were no error messages in the console, and the network requests appeared successful. The code used standard Firebase JavaScript SDK methods for writing data.
